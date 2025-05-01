@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Food Ordering</string>
+    <string name="select_food_type">Select Food Type</string>
+    <string-array name="food_types">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Sushi</item>
+        <item>Pasta</item>
+        <item>Salad</item>
+    </string-array>
+    <string name="restaurant_name">The Middle Food Corner</string>
+    <string name="your_history">Your History</string>
+</resources>
